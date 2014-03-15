@@ -1,0 +1,9 @@
+{
+    "require": {
+        "d11wtq/boris": "*",
+        "phpunit/phpunit": "*",
+        "phpunit/php-invoker": "*",
+        "phpmd/phpmd": "*",
+        "squizlabs/php_codesniffer": "*"
+    }
+}
